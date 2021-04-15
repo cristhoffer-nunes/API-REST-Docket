@@ -9,8 +9,8 @@ API REST para o sistema de cartórios com todas as funcionalidades do sistema.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Programas utilizados
-* Eclipse
-* Postman
+* [Eclipse](https://www.eclipse.org/downloads/)
+* [Postman](https://www.postman.com/downloads/)
 
 ## Dependências utilizadas
 
