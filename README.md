@@ -22,7 +22,7 @@ API REST para o sistema de cartórios com todas as funcionalidades do sistema.
 
 ## Baixando o repositório:
 
-Para baixar esse repositório no seu computador, rode o código abaixo ou clicke em [download](https://github.com/cristhoffer-nunes/API-REST-Docket/archive/main.zip).
+Para baixar esse repositório no seu computador, rode o código abaixo ou clicke em [download](https://github.com/cristhoffer-nunes/API-REST-Docket/archive/refs/heads/master.zip).
 
 ```bash
 $ git clone https://github.com/cristhoffer-nunes/API-REST-Docket.git
